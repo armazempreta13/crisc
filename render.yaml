@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: crisc
+    rootDir: dist
+    staticPublicPath: /
+    envVars: []
